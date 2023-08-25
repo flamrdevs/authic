@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "~/": "./src/",
+    "hono/": "https://deno.land/x/hono@v3.5.1/",
+    "fast-xml-parser": "npm:fast-xml-parser@4.2.7"
+  }
+}
